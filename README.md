@@ -6,8 +6,7 @@
 - Java 11
 - Spring: SpringBoot, MVC, Data JPA, Security, DevTools, Actuator
 - Maven
-- H2, Mysql, ClearDb(Heroku)
-- Thymeleaf
+- H2, Mysql
 - Javascript, jQuery
 - Html, CSS, Bootstrap
 - Test: JUnit, Mockito
